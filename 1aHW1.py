@@ -1,15 +1,3 @@
-"""
-Reactions:
-  R1: 2X1 + X2 -> 4X3   k1 = 1
-  R2: X1 + 2X3 -> 3X2   k2 = 2
-  R3: X2 + X3  -> 2X1   k3 = 3
-
-Starting state: [110, 26, 55]
-Outcomes:
-  C1: x1 >= 150
-  C2: x2 < 10
-  C3: x3 > 100
-"""
 
 import random
 
