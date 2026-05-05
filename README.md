@@ -9,3 +9,6 @@
 2.
 <img width="668" height="746" alt="image" src="https://github.com/user-attachments/assets/8890618a-2fab-4d36-8d79-842672369d6b" />
 
+
+HOMEWORK 4:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9ccd8adb-76ce-4587-8a25-81ff9cfce963" />
